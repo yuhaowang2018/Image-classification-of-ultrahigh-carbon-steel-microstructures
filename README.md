@@ -1,4 +1,4 @@
-# Image texture of ultrahigh carbon steel microstructures
+# Image classification of ultrahigh carbon steel microstructures
 This repo contains two files: "image_crop.py" is used to remove the black bar at the bottom of the micrograph. The jupyter notebook is the main file doing analysis.
 
 In the notebook, the following tasks were performed:
